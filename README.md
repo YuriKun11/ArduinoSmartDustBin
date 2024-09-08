@@ -27,14 +27,3 @@ The expanding board provides a convenient platform for connecting and prototypin
 
 ## Usage
 Once the setup is complete, the smart dustbin is ready for use. Simply approach the dustbin with any object, and the lid will automatically open. After a certain delay or when the object moves away, the lid will close again.
-
-## License
-This project is licensed under the #MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Acknowledgements
-Special thanks to the Arduino community for their valuable resources and tutorials that contributed to the development of this project.
-
-## Author
-[Yuri Kun] - [https://github.com/YuriKun11]
-
-Feel free to contribute to this project by forking it and submitting pull requests with improvements or additional features!
